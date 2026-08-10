@@ -4,12 +4,12 @@
 
 ## Introduction
 
-This dashbaord was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the data job market is scattered and hard to grasp. Using a *real world dataset of 2024 data science job postings* (including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compensation.
+This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the data job market is scattered and hard to grasp. Using a* real-world dataset of 2024 data science job postings* (including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compensation.
 
 ## Skills Showcased
 
 - **Data Transformation (ETL) with Power Query**: Cleaned, shaped, and prepared raw data for analysis by handling missing values, changing data types, and creating new columns.
-- **Implicit Measures**: Formulated meausures to derive key insights and KPIs like `Median Yearly Salary` and `Job Count`.
+- **Implicit Measures**: Formulated measures to derive key insights and KPIs like `Median Yearly Salary` and `Job Count`.
 - **Core Charts**: Utilized **Column, Bar, Line** and **Area Charts** to compare job counts and track trends over time.
 - **Geospatial Analysis:** Leveraged **Map Charts** to vizualize the global distribution of jobs.
 - **Geospatial Analysis:** Leveraged **Map Charts** to vizualize the global distribution of jobs.
@@ -22,13 +22,13 @@ This dashbaord was created for **Job Seekers, Job Transitioners, and Job Swapper
 
 
 
-## Dashbaord Overview
+## Dashboard Overview
 
 ### Page 1: High-Level Market View
 
 ![Dashboard Page 1](/Images/Project1_Page1.png)
 
-This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance. 
+This is your mission control for the data job market. It showcases key KPIs such as total job count, median salaries, and top job titles to give you a quick, at-a-glance understanding of what's happening in the job market. 
 
 ![Dashboard Page 1](/Images/Project1_Page2.png)
 

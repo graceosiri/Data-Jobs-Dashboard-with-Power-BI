@@ -10,7 +10,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 ![Data Jobs DB GIF](/Images/Project1_Page1.png)
 
-[➡️ **View Full Project 1 Details (README)**](/Data_Jobs_v1/README.md)
+[➡️ **View Full Project 1 Details (README)**](/Data_Jobs_v1/README_v1.md)
 
 
 **Key Power BI Skills Utilized:**
